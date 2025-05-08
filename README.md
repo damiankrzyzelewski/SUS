@@ -1,6 +1,6 @@
 ## Opis kolumn zbioru danych
 
-| Kolumna               | Opis (krótko)                                                                 |
+| Kolumna               | Opis                                                                |
 | --------------------- | ----------------------------------------------------------------------------- |
 | **Player**            | Nazwisko i imię zawodnika.                                                    |
 | **Position**          | Uproszczona pozycja do: `Defender`, `Midfielder` lub `Attacker`.                    |
